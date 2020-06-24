@@ -1,4 +1,9 @@
-### Usage Notes
+# fetchit-rl-grasping
+
+## License
+[MIT](https://lucasschuermann.com/license.txt)
+
+## Usage Notes
 
 ```
 pip3 install -U 'mujoco-py<2.1,>=2.0'
