@@ -1,6 +1,8 @@
 # fetchit-rl-grasping
 DDPG+HER with demonstration RL grasping experiments for CS6731 final project
 
+![Training](/pictures/Screenshot%20from%202019-05-07%2020-19-56.png)
+
 ## License
 [MIT](https://lucasschuermann.com/license.txt)
 
