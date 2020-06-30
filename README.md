@@ -1,7 +1,7 @@
 # fetchit-rl-grasping
 DDPG+HER with demonstration RL grasping experiments for CS6731 final project
 
-See [paper](https://github.com/cerrno/fetchit-rl-grasping/blob/master/Humanoid%20Robotics%20Project%20Report.pdf)
+See [paper](/project-report.pdf)
 
 ![Training](/pictures/Screenshot%20from%202019-05-07%2020-19-56.png)
 
