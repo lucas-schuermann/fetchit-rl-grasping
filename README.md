@@ -5,9 +5,6 @@ See [paper](/project-report.pdf)
 
 ![Training](/pictures/Screenshot%20from%202019-05-07%2020-19-56.png)
 
-## License
-[MIT](https://lucasschuermann.com/license.txt)
-
 ## Usage Notes
 
 ```
