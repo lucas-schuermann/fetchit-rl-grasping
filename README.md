@@ -1,12 +1,8 @@
-# fetchit-rl-grasping
-DDPG+HER with demonstration RL grasping experiments for CS6731 final project
-
-See [paper](/project-report.pdf)
+`fetchit-rl-grasping` implements DDPG+HER with demonstration RL grasping experiments for CS6731 final project. Please see the [paper](/project-report.pdf) for more information.
 
 ![Training](/pictures/Screenshot%20from%202019-05-07%2020-19-56.png)
 
-## Usage Notes
-
+## Running
 ```
 pip3 install -U 'mujoco-py<2.1,>=2.0'
 pip3 uninstall tensorflow
@@ -34,3 +30,6 @@ LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so python3 experiment/play.py defau
 python3 experiment/plot.py /tmp/openai-2019-05-07-22-02-18-894910/
 mv /tmp/openai-2019-05-07-22-02-18-894910/figure[...] results/figure[...]
 ```
+
+## License
+This project is distributed under the [MIT license](LICENSE.md).
