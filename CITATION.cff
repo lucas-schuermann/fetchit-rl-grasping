@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "fetchit-rl-grasping"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: "Lucas V."
+    family-names: "Schuermann"
+    email: lucas@lvs.io
+repository-code: "https://github.com/lucas-schuermann/fetchit-rl-grasping"
+license: MIT
+date-released: 2019-06-06
